@@ -1,6 +1,5 @@
 # Cocktail Resturant Website
-This is a restro style dynamic website for a local mini chinese resturant.    
-## Live @ [Cocktail](https://cocktailrestaurant.000webhostapp.com/) 
+This is a restro style dynamic website for a local mini chinese resturant.
 
 ##Home Page
 ![Home Page](https://raw.githubusercontent.com/Mr-spShuvo/Cocktail-Restaurant-Website/master/screenshots/Home.png)     
@@ -16,7 +15,3 @@ This is a restro style dynamic website for a local mini chinese resturant.
 
 ##Contact Page
 ![Contact Page](https://raw.githubusercontent.com/Mr-spShuvo/Cocktail-Restaurant-Website/master/screenshots/Contact.png)     
-
-
-##Email:
-mr.spshuvo@outlook.com
